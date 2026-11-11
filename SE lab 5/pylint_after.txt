@@ -1,0 +1,8 @@
+************* Module fare_calculator
+fare_calculator.py:4:0: E0611: No name 'ContentHandler' in module 'defusedxml.sax' (no-name-in-module)
+fare_calculator.py:87:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+fare_calculator.py:7:0: C0412: Imports from package defusedxml are not grouped (ungrouped-imports)
+
+-------------------------------------------------------------------
+Your code has been rated at 9.16/10 (previous run: 10.00/10, -0.84)
+
